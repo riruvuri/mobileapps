@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">Smart ToDo</string>
+    <string name="action_settings">Settings</string>
+    <string name="sample.todo.entertodo">Enter To Do...</string>
+    <string name="title_activity_edit_item">Edit Item</string>
+    <string name="sample.todo.textValue">Edit Item Below:</string>
+    <string name="sample.todo.savebutton">Save</string>
+</resources>
